@@ -1,4 +1,3 @@
 function run () {
-  console.log('NG !')
+    console.log('No !, No !, Noooooo')
 }
-
